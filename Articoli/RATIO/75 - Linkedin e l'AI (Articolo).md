@@ -1,0 +1,15 @@
+# 75   Linkedin e l'AI (Articolo)
+
+Titolo
+### LinkedIn: i nostri dati usati per addestrare l’AI
+Sottotitolo
+LinkedIn aggiorna i termini di servizio: i contenuti pubblici degli utenti saranno usati per addestrare modelli AI e migliorare la personalizzazione delle ads con Microsoft. Privacy e opt-out diventano temi cruciali per la tutela dei dati.
+Approfondimento
+LinkedIn ha annunciato un cambiamento importante nei suoi termini di servizio: a partire dal 3 novembre 2025, la piattaforma inizierà a utilizzare dati degli utenti per addestrare modelli generativi di AI e migliorare la personalizzazione delle inserzioni pubblicitarie, in collaborazione con Microsoft e le sue affiliate.
+I dati coinvolti includono profili (nome, posizione, esperienze lavorative), post, articoli, commenti e attività nel feed. È importante notare che i messaggi privati non saranno usati. L’impostazione è attiva di default: chi non vuole che i propri contenuti siano utilizzati deve modificare le impostazioni di privacy attive nel pannello “Data for Generative AI Improvement”.
+La novità riguarda varie regioni, tra cui l’Europa (UE, EEA, Regno Unito), la Svizzera, il Canada e Hong Kong, dove LinkedIn metterà a disposizione l’opzione di esclusione (opt-out).
+LinkedIn sostiene che il cambiamento serve a migliorare l’esperienza degli utenti: contenuti suggeriti più rilevanti, migliori funzioni generative (come assistenti per scrivere post o messaggi), una maggiore efficienza nel feed e potenzialmente opportunità professionali più precise.
+Tuttavia, le reazioni non sono state unanimi. Molti utenti e esperti di privacy criticano il fatto che l’opzione sia attiva di default, sostenendo che il consenso esplicito sarebbe più etico. Inoltre, il fatto che l’opt-out non riguardi retroattivamente i dati già usati suscita perplessità.
+Le implicazioni legali sono rilevanti: in Europa, il GDPR richiede chiarezza sul consenso e sul trattamento dei dati personali, specialmente quando si tratta di uso per training di modelli AI. LinkedIn afferma di applicare misure per anonimizzare o rimuovere dati sensibili nei dataset AI, ma le garanzie richieste dalle autorità restano al centro del dibattito.
+Per gli utenti, è quindi essenziale: rivedere le impostazioni di privacy; usare l’opt-out se si preferisce non essere coinvolti; cancellare o limitare post vecchi e contenuti pubblici che non si vorrebbe fossero fonte di training. Il controllo dei propri dati diventa non solo buona pratica, ma parte integrante della tutela personale.
+In conclusione, con l’entrata in vigore di queste modifiche, LinkedIn cambia le regole del gioco su privacy e AI. L’uso dei dati utente per allenare sistemi intelligenti può offrire molti benefici, ma pone anche sfide importanti in termini di consenso, trasparenza e responsabilità. La piattaforma sceglie la via della crescita AI, ma sarà la vigilanza degli utenti – e il livello di chiarezza fornito – a decidere il livello di fiducia che riuscirà a costruire.

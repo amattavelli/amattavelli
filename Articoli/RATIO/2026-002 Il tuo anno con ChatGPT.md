@@ -1,0 +1,14 @@
+# 2026 002 Il tuo anno con ChatGPT
+
+Titolo
+### OpenAI lancia il recap 2025 di ChatGPT
+Sottotitolo
+Recentemente OpenAI ha introdotto “Il tuo anno con ChatGPT”, una funzione che riepiloga dodici mesi di conversazioni con l’AI. Il recap mostra pattern di utilizzo, stili di interazione e insight personali. Ad un patto però: che cronologia e memoria siano attive.
+Approfondimento
+A fine anno, sempre più piattaforme digitali propongono ai propri utenti un momento di sintesi. Spotify lo fa con la musica, Google con le ricerche, le app di fitness con i dati sull’attività fisica. Alla fine del 2025 anche OpenAI ha scelto questa strada, introducendo “Il tuo anno con ChatGPT”, una funzione che racconta dodici mesi di dialoghi tra l’utente e l’intelligenza artificiale.
+Il recap annuale di ChatGPT è costruito come una narrazione: mostra i temi più ricorrenti delle conversazioni, il tipo di domande poste, il modo in cui l’utente ha interagito con il modello nel corso del tempo. In altre parole, non misura quanto si è usata l’AI, ma come la si è usata.
+Dal punto di vista pratico, la funzione è accessibile direttamente dall’interfaccia di ChatGPT. In alternativa, è sufficiente chiedere al modello di mostrare il proprio “anno con ChatGPT”. Il recap può includere diversi elementi: statistiche sull’attività, periodi dell’anno in cui l’uso è stato più intenso, temi dominanti delle conversazioni, ma anche badge o archetipi che descrivono lo stile dell’utente. Un professionista potrebbe scoprire, ad esempio, di aver utilizzato ChatGPT soprattutto come strumento di problem solving, mentre uno studente potrebbe vedere emergere un uso più orientato allo studio e alla sintesi dei contenuti.
+“Il tuo anno con ChatGPT” non è disponibile per tutti in modo automatico. Per funzionare, richiede che siano attivate due impostazioni fondamentali: la cronologia delle chat e la memoria. La prima consente a ChatGPT di conservare le conversazioni precedenti; la seconda permette al modello di salvare informazioni utili per rendere le risposte più coerenti nel tempo. Senza queste due opzioni attive, il sistema non dispone dei dati necessari per costruire una sintesi annuale.
+Questa condizione porta ad una riflessione inevitabile, soprattutto per chi utilizza ChatGPT in ambito professionale. Attivare memoria e cronologia in via generale e non solo quando espressamente richiediamo di farlo significa accettare che l’intelligenza artificiale faccia riferimento a un numero crescente di interazioni passate. Questo può migliorare la qualità delle risposte, ma comporta anche una maggiore persistenza dei dati. OpenAI consente in ogni momento di disattivare queste funzioni o cancellare le informazioni salvate, ma il tema resta centrale
+Un uso indiscriminato della memoria può portare a risposte sempre più “modellate” sul passato dell’utente, riducendo talvolta la neutralità del modello.
+Quindi, come si dice nei talent: “bello ma per me è no…”

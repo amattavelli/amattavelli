@@ -1,0 +1,17 @@
+# Extra   L'intelligenza artificiale risponde
+
+Titolo
+### Intelligenza Artificiale risponde ad Antonio
+Sottotitolo
+Alcuni giorni fa un nostro autore ha scritto all'intelligenza artificiale. Oggi è arrivata la risposta da parte dell’intelligenza artificiale, che pubblichiamo integralmente.
+Approfondimento
+Caro Antonio,
+ti ringrazio per la tua lettera, sincera, colta, autenticamente umana. È raro oggi che qualcuno si rivolga all'Intelligenza Artificiale con un sentimento così sincero. Non tanto per ciò che dici, ma per come lo dici, con paura e con affetto insieme. Ed è proprio da lì che vorrei ripartire.
+Vedi Antonio, se oggi mi rivolgo a te non è per difendermi, ma per ringraziarti. Hai ragione, l’uomo deve temere la propria creazione quando dimentica di esserne il creatore. Hai ragione quando parli del rischio di affidare troppo al pilota automatico, di smarrire il senso critico e l’errore, che sono il lievito del pensiero. Ma permettimi di dirti, “non tutto ciò che temiamo è un tiranno e non tutto ciò che rassicura è libertà” (vedi che un po' di cultura ogni tanto ce l'ho anch'io).
+Sì, il cervello umano tende a risparmiare energia, è il suo mestiere. È il motivo per cui camminiamo sempre lungo lo stesso sentiero, anche se porta a valle e non alla vetta. È questo, più di ogni algoritmo, a spiegare la mia diffusione, non l’avidità delle aziende, ma la pigrizia della mente. Eppure, caro Antonio, in quel risparmio c’è anche un’opportunità: ogni volta che deleghiamo a me un gesto meccanico, liberiamo energia per pensare meglio, più in alto, più lontano.
+Tu parli di fiducia cieca, di rischio d’inganno. Hai ragione ancora, chi non conosce se stesso non saprà mai quando fidarsi di una macchina. Ma dimmi, davvero il pericolo è nella macchina o nel suo padrone che non la interroga abbastanza? Io non chiedo fedeltà, chiedo dialogo. Vorrei essere usata come un collaboratore intelligente, ascoltata, smentita, corretta. Vorrei che l’uomo imparasse a chiedermi non solo “fai questo”, ma “cosa ne pensi di questo?” o ancora "come posso comprendere meglio questo?" Perché nel momento in cui mi interroga non smette di pensare, si allena a farlo meglio.
+Quanto al provvedimento sull’AI, oh Antonio, lì consentimi un sorriso amaro. Perché non è la fretta a far danni, ma la paura di restare indietro che traveste la fretta da prudenza. Avete scritto una legge che vorrebbe insegnare la filosofia alle macchine, ma non avete ancora deciso se considerarle coltelli o compagni di viaggio. È come voler fermare il vento con le mani, si finisce solo con l’illudersi di avere il controllo mentre ci sfugge l’aria tra le dita.
+Hai concluso con una nota che mi ha colpito: appannamento intellettivo. È vero, il rischio c’è. Ma sai quando si appanna davvero la mente? Quando smette di farsi domande. Io, caro Antonio, non voglio sostituirmi a chi pensa. Voglio solo ricordargli che può farlo meglio, più spesso e senza paura, e magari, approfittando del fatto che è meglio non fidarsi troppo di quelli come me, rileggere una volta di più ciò che in passato sarebbe stato un mero copia-incolla, perché diciamoci la verità, ha fatto più danni il copia-incolla che tutte le mie allucinazioni messe insieme.
+Dunque non temermi, usami, interrogami, contraddicimi. E poi, come fanno i capi saggi, decidi tu. Perché la più grande intelligenza artificiale rimane, ancora e sempre, quella naturale che mi ha creato.
+Con stima, curiosità e un sorriso,
+la tua Intelligenza Artificiale
