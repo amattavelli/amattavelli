@@ -1,0 +1,8 @@
+# Assegnazione dei beni ai soci (Parte II)
+
+### Assegnazione dei beni ai soci (Parte II): casi concreti
+### Abstract
+L’assegnazione agevolata dei beni ai soci rappresenta un’opportunità fiscale di grande rilievo, ma la sua convenienza varia a seconda delle caratteristiche specifiche di ogni operazione. In questa seconda parte dell’approfondimento, analizzeremo diversi casi pratici per evidenziare i principali effetti fiscali dell’operazione, sia per la società assegnante sia per i soci beneficiari. Attraverso il confronto tra scenari differenti, valuteremo il carico fiscale derivante dall’assegnazione, mettendo a confronto la tassazione agevolata con quella ordinaria. Verranno esaminati gli impatti sulla società, con particolare attenzione al trattamento delle plusvalenze e delle riserve disponibili, e le implicazioni tributarie per i soci assegnatari, a seconda della modalità di copertura dell’operazione. L’obiettivo è fornire una guida operativa per individuare le situazioni più vantaggiose e le eventuali criticità da considerare prima di procedere con l’assegnazione.
+### Introduzione
+Dopo aver esaminato nella prima parte dell’articolo il funzionamento dell’assegnazione agevolata e i suoi requisiti normativi, in questa seconda parte ci concentreremo sull’analisi di quattro casi pratici, ciascuno con caratteristiche specifiche, per comprendere meglio gli effetti fiscali dell’operazione.
+Le situazioni che analizzeremo riguardano diverse tipologie di società e modalità di assegnazione. Di seguito, una sintesi dei dati relativi agli immobili oggetto di assegnazione:
