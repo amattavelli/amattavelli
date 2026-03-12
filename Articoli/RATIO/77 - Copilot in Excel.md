@@ -1,0 +1,14 @@
+# 77   Copilot in Excel
+
+Titolo
+### COPILOT() la funzione di Excel che parla il linguaggio naturale
+Sottotitolo
+Excel ha da poco introdotto la funzione COPILOT(), funzione che trasforma il foglio in un assistente intelligente, utile anche a professionisti e PMI per decisioni rapide e sicure.
+Approfondimento
+Excel, il foglio di calcolo più utilizzato al mondo, sta attraversando una trasformazione profonda con l’arrivo di Copilot. Le nuove funzionalità introdotte da Microsoft abbassano drasticamente la soglia di competenze necessarie per utilizzare lo strumento in modo avanzato. L’ultima novità in questa fase di cambiamento è rappresentata da COPILOT(), una funzione che consente di impartire istruzioni in linguaggio naturale e ottenere risultati immediati, senza conoscere la sintassi delle formule.
+Scrivere:  = COPILOT("commenta l’andamento dell’azienda";A1:A1000)
+produce direttamente il risultato richiesto e, trattandosi di una formula possiamo copiarla sulla cella adiacente e ottenere il commento di un altro bilancio. Questo approccio rende accessibili operazioni complesse anche a chi non ha familiarità con le formule e segna un cambio culturale importante: Excel non è più solo uno strumento per esperti (non lo è mai stato, nonostante molti si sentano tali), ma diventa una piattaforma aperta e collaborativa.
+Le applicazioni pratiche sono numerose. Con la funzione COPILOT() si potrà d’ora in avanti: classificare e sintetizzare feedback testuali, produrre riepiloghi dinamici di vendite e performance, individuare anomalie nei dati, rispondere a domande specifiche sui dati che richiedano la conoscenza di informazioni “fuori dal foglio” o ancora ottenere suggerimenti per formule M o DAX e il tutto direttamente nella cella e in modo dinamico.
+Queste innovazioni incidono direttamente sul lavoro quotidiano dei professionisti. Un consulente può predisporre analisi in pochi istanti, un commercialista simulazioni fiscali in automatico, un manager costruire scenari di budget con istruzioni testuali. Copilot non sostituisce la competenza, ma riduce il tempo speso in attività meccaniche, liberando spazio per le decisioni strategiche.
+Nello stesso foglio il richiamo all’AI mediante la funzione può essere eseguito più volte e, ogni qualvolta cambieranno i dati, otterremo risultati diversi! Meglio però non esagerare con l’uso in una cartella per non rallentare troppo il file: se ogni ricalcolo richiede tempo avere 10 funzioni COPILOT() che lavorano in contemporanea potrebbero mandare la cartella di lavoro in crash.
+Restano tuttavia alcune cautele. Copilot non è pensato per compiti che richiedono precisione assoluta o tracciabilità rigorosa, come bilanci ufficiali o documenti legali. Inoltre, l’abbonamento ha un costo aggiuntivo  che va valutato rispetto ai benefici operativi e all’uso concreto che si intende adottare.

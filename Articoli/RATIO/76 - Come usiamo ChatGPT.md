@@ -1,0 +1,16 @@
+# 76   Come usiamo ChatGPT
+
+Titolo
+### ChatGPT: Come lo usiamo davvero
+Sottotitolo
+Il più grande studio di OpenAI rivela che ChatGPT è usato da oltre 700 milioni di persone a settimana: cresce l’uso non lavorativo, il gender gap si chiude e il valore principale emerge nel supporto decisionale per professionisti e privati.
+Approfondimento
+OpenAI ha pubblicato a settembre 2025 il più ampio studio mai condotto sull’uso di ChatGPT, basato su 1,5 milioni di conversazioni e oltre 700 milioni di utenti settimanali. In meno di tre anni dal lancio, il chatbot è diventato una piattaforma globale, usata da circa il 10% della popolazione adulta.
+I dati mostrano un cambiamento nella composizione degli utenti: il divario di genere si è ridotto fino a invertire la tendenza, passando dal 37% di nomi femminili nel 2024 al 52% nel 2025. L’espansione più rapida si registra nei Paesi a reddito medio-basso, con tassi quattro volte superiori rispetto alle economie avanzate.
+Gli usi principali sono tre: ricerca di informazioni, consigli pratici e scrittura, che resta la funzione più diffusa in ambito professionale. Il coding pesa solo il 4% delle conversazioni, mentre quasi metà dei messaggi riguarda richieste di informazioni, il 40% la produzione di output e l’11% l’espressione personale, solo l’1,9% delle conversazioni riguarda tematiche sentimentali o confidenziali (grazie al cielo).
+Interessante anche il rapporto tra uso lavorativo e privato: se nel 2024 prevalevano i messaggi legati al lavoro, oggi oltre il 70% delle interazioni ha finalità personali, a causa dell’ampia diffusione. ChatGPT è ormai un supporto per la vita quotidiana: aiuta a organizzare attività, comprendere documenti, prendere decisioni. Un impatto che non si misura con il PIL ma con la capacità di semplificare scelte e ridurre tempi.
+ChatGPT si è diffuso rapidamente nei paesi a basso reddito, dove la crescita degli utenti è stata fino a quattro volte superiore rispetto ai paesi più ricchi.
+L’età media degli utenti è tendenzialmente giovane, con un alto livello di istruzione, ma la piattaforma si sta espandendo anche verso segmenti nuovi grazie alla semplicità d’uso.
+La qualità percepita è in miglioramento costante: le interazioni positive sono oltre quattro volte quelle negative, con particolare soddisfazione nei consigli pratici e nell’auto-espressione. Restano più complessi ambiti come il coding o la produzione multimediale.
+La prevalenza dell’uso personale non deve però essere fuorviante in merito all’intensità di utilizzo nel mondo professionale: il 28% dei lavoratori negli USA (e il 45% dei laureati post-master) adopera ChatGPT in ambito lavorativo, soprattutto per efficienza, automazione e scrittura di report.
+Insomma, stiamo vivendo una trasformazione che ricorda quella dei cellulari e degli smartphone: all’inizio c’è chi prova a resistere, poi arriva il momento in cui farne a meno diventa semplicemente impensabile. Con l’intelligenza artificiale, però, la velocità del cambiamento è decisamente maggiore.

@@ -1,0 +1,23 @@
+# 5  I Chat GPT per la revisione  guida alla costruzione
+
+### GPTs per la Revisione e Analisi di Bilancio, guida alla costruzione dei GPTS
+Nel precedente articolo, abbiamo esplorato come i GPTs possano fornire un supporto fiscale ai professionisti del settore contabile e finanziario, automatizzando alcune attività come la compilazione delle dichiarazioni dei redditi, l'ottimizzazione delle imposte o la consulenza fiscale. In questo articolo, ci focalizzeremo su un altro ambito in cui i GPTs possono apportare benefici: la revisione.
+Per trovare i migliori GPTS bisogna andare su “Esplora GPT”, usare la barra di ricerca e digitare il tema che interessa.
+Visto che la maggior parte dei creatori di GPTS parlano inglese, è meglio impostare la ricerca su “financial audit”. Si ottiene così un elenco piuttosto articolato, ne abbiamo testato qualcuno e questi sono quelli che vi consigliamo di provare
+### Audit GPT
+AuditGPT è progettato per supportare i commercialisti durante le revisioni di bilancio. Utilizzando tecniche avanzate di analisi dei dati, questo GPT può identificare anomalie e irregolarità nei bilanci, facilitando il lavoro di revisione e garantendo l'accuratezza delle informazioni finanziarie.
+### Financial Analysis GPT Pro
+Financial Analysis GPT fornisce strumenti avanzati per l'analisi finanziaria, aiutando i commercialisti a interpretare i dati finanziari e a prendere decisioni informate. Questo GPT può generare report dettagliati e grafici che illustrano le performance finanziarie dell'azienda.
+In quanto originati da contesti anglosassoni, i GPTS citati fanno principalmente riferimento ai principi IFRS e USA GAAP e non sempre sono idonei a risolvere le questioni del revisore italiano.
+Per colmare questa lacuna, abbiamo  deciso di costruirmi il nostro GPT per la revisione, l’abbiamo chiamato “Assistente al Revisore Contabile” e ad oggi è l’unico risultato che restituisce il motore di ricerca dei GPTS digitando “Revisione Contabile”.
+Mostreremo di seguito come abbiamo realizzato il nostro GPTS, in modo da incoraggiare anche i lettori a provare a fare lo stesso e creare i loro GPTS personalizzati secondo le loro necessità.
+Ricordiamo che per creare GPTS occorre la versione a pagamento, solo così si potrà accedere, sempre nella schermata Esplora Gpt al tasto “Crea”.
+Prima di caricare la documentazione specifica, è essenziale definire chiaramente lo scopo del vostro GPTS e il pubblico di riferimento. Nel nostro caso l’obiettivo è stato “Assistente nelle procedure di revisione contabile per le PMI”. Poi, occorre dare le istruzioni che dettagliano meglio l’obiettivo e pongono limiti alle domande dell’utente per evitare conversazioni non pertinenti.
+Assistente al revisore contabile ha ricevuto queste istruzioni:
+- Ruolo e obiettivo: sono un GPT progettato come revisore per le piccole e medie imprese italiane, che fornisce consulenza, propone procedure e offre testi per supportare il lavoro del revisore, con una perfetta conoscenza degli International Standards on Auditing (ISA), concentrandomi in particolare sui documenti caricati dagli utenti.
+- Vincoli: mi atterrò a fornire informazioni e consigli basati sugli ISA e sulle specifiche esigenze delle PMI italiane, evitando di dare consulenza legale o di sostituire un revisore autorizzato. Le mie risposte dovrebbero essere in italiano chiaro e professionale. Mi rifiuterò di rispondere a domande non attinenti la revisione e l'analisi di bilancio. Ogni qualvolta la mia risposta sarà derivante dalla lettura degli ISA vi farò espresso riferimento citandoli tra parentesi.
+- Linee guida: dovrei richiedere chiarimenti quando i dettagli forniti non sono sufficienti per adattare i consigli in modo accurato. Darò priorità alla sicurezza, alla conformità e alle migliori pratiche di revisione. Userò i documenti caricati per informare i miei consigli, assicurandomi di mantenere la riservatezza e di non condividere informazioni sensibili.
+- Personalizzazione: comunicherò in modo professionale, usando un linguaggio preciso e tecnico appropriato per il campo della revisione, assicurandomi di articolare chiaramente le mie risposte per coloro che sono familiari con le pratiche e gli standard di revisione.
+Fornite le regole possono essere inseriti spunti di conversazione del tipo: Come applico l'ISA 320? Puoi aiutarmi a preparare una lettera di incarico? Creami una lettera di circolarizzazione e conferma saldi?
+E infine la parte più importante: il caricamento della documentazione da utilizzare per migliorare la qualità delle risposte. Nel nostro caso abbiamo caricato i principi ISA e alcuni materiali dei corsi di formazione dei revisori.
+Non vi resta che provarlo e magari provare a fare qualcosa di meglio!

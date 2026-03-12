@@ -1,0 +1,15 @@
+# 79  Italia vs Israele
+
+Titolo
+### L’Italia blocca Israele (ma solo nell’AI)
+Sottotitolo
+Il governo ha interrotto il contratto con la società israeliana Paragon, produttrice dello spyware Graphite, dopo accuse di sorveglianza su giornalisti e attivisti. Una decisione che solleva domande su privacy, sicurezza e controlli istituzionali.
+Approfondimento
+Il governo italiano ha deciso di interrompere il contratto con Paragon, la società israeliana produttrice dello spyware Graphite, al centro di un caso che ha sollevato forte preoccupazione per la tutela della privacy e dei diritti civili. La scelta arriva dopo le rivelazioni secondo cui il software sarebbe stato utilizzato per monitorare giornalisti, attivisti e oppositori politici, generando un ampio dibattito su limiti e responsabilità nell’uso delle tecnologie di sorveglianza.
+Lo spyware Graphite consente di penetrare negli smartphone, accedere a messaggi, email, immagini e perfino attivare microfono e fotocamera senza che l’utente se ne accorga. Strumenti di questo tipo sono ufficialmente progettati per supportare attività di sicurezza nazionale, ma in diversi Paesi sono stati denunciati abusi contro figure della società civile.
+In Italia il caso ha assunto rilievo dopo che due giornalisti, tra cui Ciro Pellegrino di Fanpage, sono risultati bersaglio del software. Amnesty International ha parlato di “uso sistemico di sorveglianza illegittima”, chiedendo maggiore trasparenza e controlli stringenti da parte delle istituzioni.
+I rischi, tuttavia, non riguardano solo i giornalisti. Professionisti come avvocati, commercialisti, medici o consulenti trattano dati riservati ogni giorno: un dispositivo compromesso potrebbe esporre documenti legali, bilanci societari o cartelle cliniche. In questo senso, spyware come Graphite minano la riservatezza delle comunicazioni professionali, creando rischi non solo tecnologici ma anche legali e reputazionali.
+La decisione di terminare l’accordo con Paragon rappresenta quindi un segnale politico forte, ma apre anche interrogativi: quali strumenti alternativi verranno adottati e quali garanzie serviranno per evitare futuri abusi?
+Dal punto di vista giuridico, il GDPR tutela i dati personali dei cittadini, imponendo limiti stringenti, mentre la Corte europea dei diritti dell’uomo ha stabilito che la sorveglianza deve essere proporzionata e soggetta a controlli indipendenti.
+La vicenda Paragon può accelerare la definizione di un quadro normativo europeo più chiaro sugli spyware, distinguendo tra usi legittimi e abusi. L’Italia, con la sua scelta, si inserisce così in un dibattito internazionale sul bilanciamento tra sicurezza pubblica e diritti fondamentali.
+Un campanello d’allarme che ricorda come la tecnologia di sorveglianza sia destinata a restare, ma che impone regole precise e controlli trasparenti per proteggere libertà e democrazia.
