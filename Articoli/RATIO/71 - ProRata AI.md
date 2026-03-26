@@ -1,0 +1,15 @@
+# 71   ProRata AI
+
+Titolo
+### ProRata.ai, l’AI che paga gli editori
+Sottotitolo
+ProRata.ai ha raccolto 40 milioni di dollari per lanciare un motore di ricerca AI integrato nei siti degli editori, che riconosce compensi per i contenuti usati. Un modello che prova a conciliare innovazione e tutela del lavoro giornalistico.
+Approfondimento
+Il rapporto tra intelligenza artificiale ed editori è da tempo controverso: molti modelli generativi si basano su articoli e testi giornalistici senza riconoscere compensi adeguati. In questo scenario nasce ProRata.ai, startup che ha raccolto 40 milioni di dollari per lanciare un motore di ricerca AI pensato per il mondo dell’editoria.
+Il sistema permette agli editori di integrare nei propri siti una funzione di ricerca intelligente che fornisce sintesi e risposte generate dall’AI a partire dai contenuti pubblicati. La novità è il modello di revenue sharing: ogni volta che un articolo viene utilizzato per una risposta, l’editore riceve un compenso proporzionale al contributo.
+L’obiettivo è duplice: migliorare l’esperienza del lettore, che ottiene informazioni ordinate e riassunte, e valorizzare il lavoro giornalistico con una nuova fonte di ricavi. Una proposta che prova a colmare la frattura tra AI e media, dopo mesi di polemiche e cause legali per lo “scraping” non autorizzato dei contenuti.
+Dal punto di vista tecnico, la piattaforma si collega tramite API e plugin ai siti degli editori, tracciando in modo trasparente l’utilizzo dei materiali. Questo permette non solo di calcolare i compensi, ma anche di individuare quali articoli suscitano maggiore interesse presso gli utenti.
+I vantaggi sono chiari: nuove entrate per gli editori, un’esperienza di ricerca più rapida e precisa per gli utenti e un modello più equilibrato di convivenza tra AI e informazione. In futuro, lo schema ProRata.ai potrebbe estendersi anche ad altri settori – musica, cinema, formazione online – dove i diritti d’autore sono messi in discussione dalle tecnologie generative.
+Restano però sfide da affrontare. La prima è convincere un numero sufficiente di editori ad adottare il sistema, rendendolo competitivo rispetto ai grandi motori di ricerca. La seconda riguarda la sostenibilità: sarà necessario dimostrare che il revenue sharing genera ricavi significativi. Infine, sarà cruciale garantire regole chiare e trasparenti nella ripartizione dei compensi.
+Nonostante queste incognite, ProRata.ai ha già attirato l’interesse di investitori e gruppi editoriali. La sua proposta non vede l’AI come minaccia, ma come partner economico, capace di ampliare l’accesso alle informazioni senza penalizzare chi le produce.
+In conclusione, ProRata.ai non è solo una startup, ma un possibile nuovo modello di sostenibilità per i media digitali. Se riuscirà a consolidarsi, potrà aprire una stagione in cui AI e editori collaborano, condividendo ricavi e valore.
