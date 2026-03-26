@@ -1,0 +1,15 @@
+# 82 Se l AI facesse le dichiarazioni
+
+Titolo
+### In USA la dichiarazione la fa già l’intelligenza artificiale e in Italia?
+Sottotitolo
+Negli USA nascono piattaforme di intelligenza artificiale che preparano da sole le dichiarazioni fiscali. Se simili strumenti arrivassero in Italia, professionisti e imprese dovrebbero affrontare nuove opportunità e sfide su privacy, affidabilità e responsabilità.
+Approfondimento
+Negli Stati Uniti sono già realtà piattaforme che utilizzano l’intelligenza artificiale per compilare in autonomia le dichiarazioni dei redditi. Startup come Filed propongono sistemi capaci di apprendere i flussi di lavoro degli studi fiscali e replicarli, automatizzando l’intero ciclo: dall’estrazione dei dati alla revisione. In caso di situazioni complesse, le anomalie vengono segnalate al professionista, mantenendo tracciabilità e auditabilità.
+Anche colossi come Intuit, con TurboTax, sperimentano modelli “done-for-you” che analizzano i dati del contribuente, importano documenti e suggeriscono deduzioni in automatico. In parallelo, realtà come Wolters Kluwer sviluppano workflow fiscali digitali basati sull’AI, che integrano raccolta dati, preparazione e consegna delle dichiarazioni.
+I benefici sono evidenti: riduzione del lavoro manuale, maggiore velocità e minori errori. Per i contribuenti standard, l’AI può essere un supporto immediato, mentre per i professionisti significherebbe più tempo per la consulenza strategica. Le esperienze americane evidenziano però anche criticità. L’AI funziona bene in scenari semplici, ma fatica con deduzioni particolari o crediti complessi.
+Queste novità aprono il campo alle solite discussioni: va data la delicatezza del tema è bene ribadirle.
+La responsabilità legale resta ovviamente del professionista o del contribuente fai da te: “ignorantia AI non excusat”. La dichiarazione contiene numerosi dati personali e anche informazioni sensibili (spese sanitarie,sostegno a partiti politici solo per citare i più clamorosi). Un’AI che analizza dichiarazioni fiscali maneggia questi dati deve avere dei protocolli di sicurezza a prova di bomba. Preoccupa inoltre quanto sta già accadendo negli Stati Uniti: l’IRS usa algoritmi per selezionare i contribuenti a rischio di controllo, con inevitabili dubbi su tutela delle informazioni.
+In Italia, strumenti simili dovrebbero confrontarsi con il GDPR e con l’AI Act europeo, che impongono trasparenza e tracciabilità per i sistemi ad alto rischio. A ciò si aggiungerebbe il ruolo dell’Agenzia delle Entrate, chiamata a vigilare su conformità e sicurezza e epic ai fail da parte dell’Ade li abbiamo già visti con le lettere di compliance.
+Non mi convincono invece le obiezioni in merito all’inapplicabilità in Italia per l’eccessiva complicazione del sistema fiscale. Tale affermazione (forse per qualcuno una vana speranza) sarebbe in netta contaddizione con il fiorire di intelligenze artificiali che stiamo istruendo con il compito di supportare il professionista nell’interpretazione e applicazione della norma.
+Staremo a vedere, come si dice in questi casi, e a mio avviso non dovremo aspettare molto.
